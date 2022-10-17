@@ -14,7 +14,7 @@ function SearchResult(props) {
           <ul className="pages">
             <li>&lt;</li>
             <li className="active">1</li>
-            <li>2</li>
+            <li >2</li>
             <li>3</li>
             <li>4</li>
             <li>&gt;</li>
