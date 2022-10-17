@@ -52,7 +52,7 @@ function Header(props) {
 
   return (
     <>
-      <GoogleOAuthProvider clientId="176941409974-9g8cd6hm17tk8aehntrilrmbobkbo2in.apps.googleusercontent.com">
+      <GoogleOAuthProvider clientId="575081266573-2opv5ubvui2easu8dgnau6ah1ru6apte.apps.googleusercontent.com">
         <Login success={onSuccess} error={onError} />
         <SignUp />
         <header className={"col-12 py-2 " + bgColor}>
