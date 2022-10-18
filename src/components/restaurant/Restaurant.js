@@ -63,7 +63,7 @@ function Restaurant(props) {
     let { order } = data;
 
     var options = {
-      key: "rzp_live_UnoLfmbaFQm53d",
+      key: "rzp_test_2QCM5UJe4snnLW",
       amount: order.amount,
       currency: "INR",
       name: "Zomato Clone Payment",
@@ -90,8 +90,8 @@ function Restaurant(props) {
         }
       },
       prefill: {
-        name: "Deepakkumar",
-        email: "deepak@gmail.com",
+        name: "azharansari",
+        email: "azharansari@gmail.com",
         contact: "9999999999",
       },
     };
