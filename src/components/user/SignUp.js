@@ -4,8 +4,13 @@ function SignUp(props) {
   return (
     <>
       <div
+<<<<<<< HEAD
         className="modal fade"
         id="sign-up"
+=======
+        className="modal fade "
+        id="SignUp"
+>>>>>>> 064ac541538486709f9782ba765b12fb9dc05f50
         tabIndex="-1"
         aria-labelledby="exampleModalLabel"
         aria-hidden="true"
@@ -13,8 +18,13 @@ function SignUp(props) {
         <div className="modal-dialog">
           <div className="modal-content">
             <div className="modal-header">
+<<<<<<< HEAD
               <h5 className="modal-title" id="sign-up-title">
                 SignUp
+=======
+              <h5 className="modal-title" id="SignUp-title">
+                Create an account
+>>>>>>> 064ac541538486709f9782ba765b12fb9dc05f50
               </h5>
               <button
                 type="button"

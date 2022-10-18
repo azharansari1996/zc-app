@@ -85,6 +85,7 @@ function Header(props) {
                   Logout
                 </button>
               </div>
+              
             )}
           </div>
         </header>
